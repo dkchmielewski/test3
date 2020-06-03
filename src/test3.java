@@ -7,5 +7,6 @@ public class test3 {
         System.out.println("commitowania");
         System.out.println("nowy");
         System.out.println("Daniel");
+        System.out.println("Chmielewski");
     }
 }
